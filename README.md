@@ -18,7 +18,7 @@ A simple Network Port Scanner built using Python that scans a target system and 
 
 Clone the repository:
 
-git clone https://github.com/yourusername/network-port-scanner.git
+git clone https://github.com/arfatdatasci/network-port-scanner.git
 
 Move into project directory:
 
